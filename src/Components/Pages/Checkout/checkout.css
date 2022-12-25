@@ -1,0 +1,9 @@
+.react-tabs__tab--selected{
+  color: white !important;
+  text-decoration: underline;
+  background-color: #844ffa;
+}
+.react-tabs__tab--selected:hover{
+  color: rgb(31, 20, 20);
+ 
+}
